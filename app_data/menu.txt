@@ -1,0 +1,25 @@
+def show_menu():
+    print('\n____ MENU ____')
+    print('0 - Show Menu')
+    print('1 - Play Round!')
+    print('2 - Change Bet')
+    print('3 - Show Account Info')    
+    print('4 - Show Statistics')
+    print('5 - "Get Five!" (mini-game) ')    
+    print('6 - Change Nickname')
+    
+    print('\n00 - Show Extended Menu')
+    print('01 - Show Game Rules')
+    
+    print('\n9 - Exit') 
+
+
+def show_extended_menu():
+    print('\n____EXTENDED MENU ____')    
+    print('11 - Get 1 Random Card')
+    print('55 - Get 5 Random Cards')
+    print('22 - Get a Few Nums of Random Cards')    
+    print('33 - Drop Random Cards Hand\n')
+
+    print('98 - Show deck_list')    
+    print('99 - Show Cards Deck')

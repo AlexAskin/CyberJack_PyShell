@@ -1,0 +1,2633 @@
+﻿game_reports.txt was cleared by command-001
+
+user_name: John
+8♣ 8♠ 
+16
+K♠ 5♣ 
+18
+AI Raced
+Lose
+
+user_name: John
+2♦ 8♦ 5♠ 8♥ 
+23
+8♣ 
+8
+User Overhited
+Lose
+
+user_name: John
+A♥ 2♣ 8♦ 10♠ 
+21
+J♠ 
+11
+User Jack
+WinJack
+
+user_name: John
+4♣ J♦ 
+15
+8♦ 7♦ 
+15
+Equal Points
+Draw
+
+user_name: John
+10♠ J♠ 
+21
+3♦ 
+3
+User Jack
+WinJack
+
+user_name: John
+7♦ 6♦ Q♠ 
+25
+10♠ 
+10
+User Overhited
+Lose
+
+user_name: John
+K♦ 4♠ 
+17
+6♣ A♦ 8♠ A♠ A♥ 
+17
+Equal Points
+Draw
+
+user_name: John
+3♣ 2♠ A♦ Q♥ 
+18
+J♠ 4♥ 2♦ Q♠ 
+29
+AI Overhited
+Win
+
+user_name: John
+J♦ J♣ 
+22
+10♠ 
+10
+User Overhited
+Lose
+
+user_name: John
+K♣ 4♦ 
+17
+7♥ 10♠ 
+17
+Equal Points
+Draw
+
+user_name: John
+9♠ 7♥ 
+16
+10♥ Q♥ 
+22
+AI Overhited
+Win
+
+user_name: John
+A♠ 8♣ Q♥ 
+21
+2♣ 
+2
+User Jack
+WinJack
+
+user_name: John
+Q♦ 7♦ 
+19
+9♥ 9♦ 6♣ 
+24
+AI Overhited
+Win
+
+user_name: John
+J♦ 9♥ 
+20
+Q♥ 5♣ 6♠ 
+23
+AI Overhited
+Win
+
+user_name: John
+6♠ 5♠ 2♥ 3♠ 
+16
+K♠ K♦ 
+26
+AI Overhited
+Win
+
+user_name: John
+7♥ J♦ 
+18
+10♠ 
+10
+...
+...
+
+user_name: John
+K♦ 6♥ 
+19
+6♠ J♠ 7♦ 
+24
+AI Overhited
+Win
+
+user_name: John
+5♥ 5♠ 10♦ 
+20
+3♣ 8♥ 6♦ 2♦ 3♥ 
+22
+AI Overhited
+Win
+
+user_name: John
+K♣ 9♦ 
+22
+2♠ 
+2
+User Overhited
+Lose
+
+user_name: John
+3♠ Q♣ 7♠ 
+22
+2♥ 
+2
+User Overhited
+Lose
+
+user_name: John
+J♦ 7♠ 
+18
+Q♦ 7♣ 
+19
+AI Raced
+Lose
+
+user_name: John
+9♠ Q♥ 
+21
+5♠ 
+5
+User Jack
+WinJack
+
+user_name: John
+7♦ 6♠ 2♦ 3♥ 
+18
+4♥ K♥ 6♣ 
+23
+AI Overhited
+Win
+
+user_name: John
+6♠ 3♣ 9♦ 
+18
+K♠ Q♦ 
+25
+AI Overhited
+Win
+
+user_name: John
+4♦ Q♥ 3♦ 
+19
+4♠ Q♠ A♣ 3♥ 
+20
+AI Raced
+Lose
+
+user_name: John
+10♣ 4♠ J♣ 
+25
+A♥ 
+1
+User Overhited
+Lose
+
+user_name: John
+6♠ 8♥ 5♦ 
+19
+4♣ 9♦ 6♦ 
+19
+Equal Points
+Draw
+
+user_name: John
+A♥ A♦ 6♥ 7♠ 
+15
+10♦ 8♣ 
+18
+AI Raced
+Lose
+
+user_name: John
+Q♠ J♣ 
+23
+9♠ 
+9
+User Overhited
+Lose
+
+user_name: John
+2♣ 5♠ 3♦ A♦ J♦ 
+22
+8♦ 
+8
+User Overhited
+Lose
+
+user_name: John
+A♥ J♥ 5♣ 
+17
+7♦ 4♦ 7♣ 
+18
+AI Raced
+Lose
+
+user_name: John
+8♦ 5♦ 9♣ 
+22
+9♠ 
+9
+User Overhited
+Lose
+
+user_name: John
+7♠ K♦ 
+20
+5♠ J♣ A♦ 9♦ 
+26
+AI Overhited
+Win
+
+user_name: John
+Q♠ 4♦ 
+16
+10♠ A♥ 5♦ 
+16
+Equal Points
+Draw
+
+user_name: John
+Q♦ 6♥ 
+18
+4♥ J♠ A♣ 8♠ 
+24
+AI Overhited
+Win
+
+user_name: John
+2♣ J♦ 6♠ 
+19
+2♠ 5♣ 9♠ 2♥ 6♥ 
+24
+AI Overhited
+Win
+
+user_name: John
+Q♥ K♠ 
+25
+10♣ 
+10
+User Overhited
+Lose
+
+user_name: John
+J♣ Q♠ 
+23
+7♥ 
+7
+User Overhited
+Lose
+
+user_name: John
+3♦ 10♠ J♣ 
+24
+2♥ 
+2
+User Overhited
+Lose
+
+user_name: John
+8♥ 7♦ 
+15
+2♣ J♥ A♦ A♣ 
+15
+Equal Points
+Draw
+
+user_name: John
+9♦ Q♣ 
+21
+4♦ 
+4
+User Jack
+WinJack
+
+user_name: John
+K♦ 7♠ 
+20
+6♠ Q♥ A♠ Q♦ 
+31
+AI Overhited
+Win
+
+user_name: John
+8♠ J♠ 
+19
+J♦ K♦ 
+24
+AI Overhited
+Win
+
+user_name: John
+2♥ K♠ 
+15
+6♠ 
+6
+...
+...
+
+user_name: John
+J♦ K♣ 
+24
+A♥ 
+1
+User Overhited
+Lose
+
+user_name: John
+Q♥ 2♠ K♥ 
+27
+8♣ 
+8
+User Overhited
+Lose
+
+user_name: John
+10♥ 7♠ 
+17
+4♥ 
+4
+...
+...
+
+user_name: John
+6♦ 3♥ 
+9
+6♥ 
+6
+...
+...
+
+user_name: John
+10♣ 3♠ 9♣ 
+22
+9♦ 
+9
+User Overhited
+Lose
+
+user_name: John
+7♦ 3♦ 9♣ 
+19
+8♠ A♦ Q♠ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+4♣ 5♣ 3♣ 2♣ K♣ 
+27
+K♦ 
+13
+User Overhited
+Lose
+
+user_name: John
+7♦ 6♠ Q♥ 
+25
+2♣ 
+2
+User Overhited
+Lose
+
+user_name: John
+J♠ 10♥ 
+21
+A♠ 
+1
+User Jack
+WinJack
+
+user_name: John
+4♦ 7♠ 3♠ 8♠ 
+22
+A♥ 
+1
+User Overhited
+Lose
+
+user_name: John
+6♠ 8♦ 
+14
+4♣ 3♠ 10♦ 
+17
+AI Raced
+Lose
+
+user_name: John
+7♥ J♠ 
+18
+2♣ 10♦ A♣ Q♦ 
+25
+AI Overhited
+Win
+
+user_name: John
+8♦ 3♥ 4♥ 
+15
+J♠ 7♣ 
+18
+AI Raced
+Lose
+
+user_name: John
+10♣ 9♥ 
+19
+7♠ 9♣ 8♠ 
+24
+AI Overhited
+Win
+
+user_name: John
+6♥ J♠ 
+17
+7♠ 8♣ 3♠ 
+18
+AI Raced
+Lose
+
+user_name: John
+K♦ 7♠ 
+20
+K♥ 7♦ 
+20
+Equal Points
+Draw
+
+user_name: John
+3♣ 4♥ K♥ 
+20
+9♣ 6♥ 5♣ 
+20
+Equal Points
+Draw
+
+user_name: John
+6♠ 2♣ J♣ 
+19
+5♣ 2♥ A♦ 2♠ Q♥ 
+22
+AI Overhited
+Win
+
+user_name: John
+6♣ 9♦ K♦ 
+28
+A♠ 
+1
+User Overhited
+Lose
+
+user_name: John
+9♠ 5♦ 4♦ 
+18
+10♦ 8♣ 
+18
+Equal Points
+Draw
+
+user_name: John
+6♠ 9♦ 
+15
+K♠ Q♦ 
+25
+AI Overhited
+Win
+
+user_name: John
+9♣ K♣ 
+22
+3♥ 
+3
+User Overhited
+Lose
+
+user_name: John
+A♠ 9♥ 7♠ 
+17
+9♦ K♣ 
+22
+AI Overhited
+Win
+
+user_name: John
+A♦ 5♠ A♠ 9♠ 
+16
+2♣ 9♦ 4♥ 8♠ 
+23
+AI Overhited
+Win
+
+user_name: John
+3♥ 7♦ 5♣ 
+15
+10♠ 9♥ 
+19
+AI Raced
+Lose
+
+user_name: John
+J♠ J♥ 
+22
+A♣ 
+1
+User Overhited
+Lose
+
+user_name: John
+J♦ 3♥ 5♥ 
+19
+3♣ 8♣ A♦ K♥ 
+25
+AI Overhited
+Win
+
+user_name: John
+3♥ 6♦ 8♣ 
+17
+3♦ K♦ K♣ 
+29
+AI Overhited
+Win
+
+user_name: John
+8♠ Q♣ 
+20
+6♦ 5♠ 9♦ 
+20
+Equal Points
+Draw
+
+user_name: John
+7♠ 3♥ 6♦ 3♣ 
+19
+8♣ 4♣ J♥ 
+23
+AI Overhited
+Win
+
+user_name: John
+8♥ 4♣ 4♥ 
+16
+5♣ 6♠ 2♠ 7♣ 
+20
+AI Raced
+Lose
+
+user_name: John
+K♣ 3♠ 2♣ 
+18
+A♥ K♦ 9♣ 
+23
+AI Overhited
+Win
+
+user_name: John
+2♠ K♣ 4♦ 
+19
+4♣ 4♠ 7♠ Q♠ 
+27
+AI Overhited
+Win
+
+user_name: John
+J♠ 3♥ 6♦ 
+20
+A♦ Q♦ K♠ 
+26
+AI Overhited
+Win
+
+user_name: John
+6♦ 10♠ 
+16
+8♣ J♠ 
+19
+AI Raced
+Lose
+
+user_name: John
+4♠ A♦ 8♠ 5♣ 
+18
+7♠ K♦ 
+20
+AI Raced
+Lose
+
+user_name: John
+5♣ 4♣ J♠ 
+20
+6♣ 7♣ J♣ 
+24
+AI Overhited
+Win
+
+user_name: John
+10♦ A♣ 8♥ 
+19
+2♠ 7♥ 5♠ 3♠ Q♠ 
+29
+AI Overhited
+Win
+
+user_name: John
+Q♥ 8♥ 
+20
+7♦ 8♠ K♣ 
+28
+AI Overhited
+Win
+
+user_name: John
+6♠ J♥ 
+17
+9♣ 7♣ 6♦ 
+22
+AI Overhited
+Win
+
+user_name: John
+K♦ 10♦ 
+23
+6♣ 
+6
+User Overhited
+Lose
+
+user_name: John
+6♥ 9♠ 
+15
+8♠ K♣ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+2♠ Q♠ 
+14
+10♣ Q♣ 
+22
+AI Overhited
+Win
+
+user_name: John
+5♦ Q♠ 
+17
+5♠ 5♣ Q♦ 
+22
+AI Overhited
+Win
+
+user_name: John
+2♠ A♣ J♠ K♥ 
+27
+3♥ 
+3
+User Overhited
+Lose
+
+user_name: John
+4♦ 3♥ 4♥ 5♠ 
+16
+5♥ Q♣ 
+17
+AI Raced
+Lose
+
+user_name: John
+4♠ 6♣ 6♦ 
+16
+K♣ 10♣ 
+23
+AI Overhited
+Win
+
+user_name: John
+K♦ J♥ 
+24
+10♦ 
+10
+User Overhited
+Lose
+
+user_name: John
+Q♥ 2♥ 
+14
+6♠ 7♣ 8♦ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+5♠ Q♦ 
+17
+9♣ 4♦ A♥ J♥ 
+25
+AI Overhited
+Win
+
+user_name: John
+5♦ 2♥ 2♣ 8♥ 
+17
+Q♣ 3♠ 4♣ 
+19
+AI Raced
+Lose
+
+user_name: John
+J♥ 10♦ 
+21
+Q♣ 
+12
+User Jack
+WinJack
+
+user_name: John
+K♣ 4♥ 
+17
+7♦ A♦ 5♣ 10♦ 
+23
+AI Overhited
+Win
+
+user_name: John
+10♣ 6♦ 
+16
+J♠ Q♦ 
+23
+AI Overhited
+Win
+
+user_name: John
+A♣ 5♣ 3♥ 10♥ 
+19
+9♠ 3♣ 4♥ 5♥ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+10♣ 10♦ 
+20
+8♠ 9♣ K♥ 
+30
+AI Overhited
+Win
+
+user_name: John
+4♠ 9♣ K♥ 
+26
+Q♠ 
+12
+User Overhited
+Lose
+
+user_name: John
+A♣ 8♦ 3♠ 9♥ 
+21
+6♣ 
+6
+User Jack
+WinJack
+
+user_name: John
+5♥ 2♥ A♦ 8♠ 
+16
+4♥ 6♣ Q♥ 
+22
+AI Overhited
+Win
+
+user_name: John
+6♠ A♣ 5♣ 4♥ 
+16
+10♦ 9♣ 
+19
+AI Raced
+Lose
+
+user_name: John
+10♥ 9♣ 
+19
+9♦ 10♦ 
+19
+Equal Points
+Draw
+
+user_name: John
+7♥ 6♠ 5♠ 
+18
+10♦ 
+10
+...
+...
+
+user_name: John
+8♠ K♦ 
+21
+Q♠ 
+12
+User Jack
+WinJack
+
+user_name: John
+10♣ 2♥ 3♣ 
+15
+K♣ A♦ 2♣ 
+16
+AI Raced
+Lose
+
+user_name: John
+3♠ K♣ 6♠ 
+22
+2♣ 
+2
+User Overhited
+Lose
+
+user_name: John
+A♦ 6♦ A♠ 10♣ 
+18
+3♦ 2♠ 2♥ 10♠ 8♠ 
+25
+AI Overhited
+Win
+
+user_name: John
+8♣ 3♣ 4♠ 
+15
+4♥ A♦ A♣ J♣ 
+17
+AI Raced
+Lose
+
+user_name: John
+4♠ 8♥ A♠ J♠ 
+24
+J♣ 
+11
+User Overhited
+Lose
+
+user_name: John
+9♣ Q♠ 
+21
+7♥ 
+7
+User Jack
+WinJack
+
+user_name: John
+10♥ A♠ 8♠ 
+19
+2♥ 6♣ Q♦ 
+20
+AI Raced
+Lose
+
+user_name: John
+A♠ A♥ 
+2
+6♠ 
+6
+AI Raced
+Lose
+
+user_name: John
+5♠ J♣ 
+16
+8♠ 8♣ 
+16
+Equal Points
+Draw
+
+user_name: John
+2♠ 9♣ J♣ 
+22
+8♠ 
+8
+User Overhited
+Lose
+
+user_name: John
+J♣ 2♥ 4♠ 
+17
+6♠ 8♠ 8♦ 
+22
+AI Overhited
+Win
+
+user_name: John
+3♦ A♥ J♦ 6♠ 
+21
+K♣ 
+13
+User Jack
+WinJack
+
+user_name: John
+3♠ 6♣ 10♠ 
+19
+8♦ 7♣ 2♦ A♥ 7♠ 
+25
+AI Overhited
+Win
+
+user_name: John
+A♣ 9♠ 9♣ 
+19
+A♥ 7♣ 5♦ K♣ 
+26
+AI Overhited
+Win
+
+user_name: John
+K♦ 5♥ 
+18
+9♠ J♠ 
+20
+AI Raced
+Lose
+
+user_name: John
+J♥ 8♣ 
+19
+6♦ A♣ J♣ 9♦ 
+27
+AI Overhited
+Win
+
+user_name: John
+7♦ A♠ 
+8
+3♦ 
+3
+...
+...
+
+user_name: John
+2♠ 10♥ 6♣ 
+18
+9♣ J♦ 
+20
+AI Raced
+Lose
+
+user_name: John
+10♣ K♦ 
+23
+5♦ 
+5
+User Overhited
+Lose
+
+user_name: John
+6♥ K♦ 
+19
+J♣ 5♠ K♠ 
+29
+AI Overhited
+Win
+
+user_name: John
+A♦ K♥ A♠ 
+15
+4♣ 10♣ A♥ 
+15
+Equal Points
+Draw
+
+user_name: John
+5♥ 10♠ 
+15
+8♠ 8♣ 
+16
+AI Raced
+Lose
+
+user_name: John
+7♥ Q♦ 
+19
+6♣ 9♥ 7♣ 
+22
+AI Overhited
+Win
+
+user_name: John
+3♣ 6♥ Q♦ 
+21
+K♦ 
+13
+User Jack
+WinJack
+
+user_name: John
+4♦ J♦ Q♥ 
+27
+J♠ 
+11
+User Overhited
+Lose
+
+user_name: John
+K♥ A♠ 
+14
+3♣ 3♦ A♦ 10♠ 
+17
+AI Raced
+Lose
+
+user_name: John
+5♦ K♠ 
+18
+J♥ Q♠ 
+23
+AI Overhited
+Win
+
+user_name: John
+5♦ 10♣ 3♣ 
+18
+A♠ 10♠ Q♦ 
+23
+AI Overhited
+Win
+
+user_name: John
+2♦ 2♥ 10♥ 10♦ 
+24
+5♣ 
+5
+User Overhited
+Lose
+
+user_name: John
+4♥ 3♠ 9♠ 
+16
+2♣ 7♠ 6♠ 10♥ 
+25
+AI Overhited
+Win
+
+user_name: John
+K♣ 10♠ 
+23
+9♦ 
+9
+User Overhited
+Lose
+
+user_name: John
+2♠ Q♦ 4♣ 
+18
+7♠ 7♥ K♠ 
+27
+AI Overhited
+Win
+
+user_name: John
+4♥ 7♠ 3♥ 
+14
+K♠ J♥ 
+24
+AI Overhited
+Win
+
+user_name: John
+4♣ 4♥ 6♠ 
+14
+8♠ 3♥ 8♥ 
+19
+AI Raced
+Lose
+
+user_name: John
+10♦ A♥ Q♠ 
+23
+K♦ 
+13
+User Overhited
+Lose
+
+user_name: John
+J♠ 7♦ 
+18
+8♦ K♦ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+6♦ Q♦ 
+18
+4♦ J♥ 8♣ 
+23
+AI Overhited
+Win
+
+user_name: John
+2♠ A♠ 7♥ 10♦ 
+20
+3♥ J♦ 5♠ 8♥ 
+27
+AI Overhited
+Win
+
+user_name: John
+J♥ 10♥ 
+21
+3♣ 
+3
+User Jack
+WinJack
+
+user_name: John
+K♠ 5♦ 
+18
+8♠ 4♥ 6♦ 
+18
+Equal Points
+Draw
+
+user_name: John
+Q♥ J♥ 
+23
+10♦ 
+10
+User Overhited
+Lose
+
+user_name: John
+9♥ A♥ 6♥ 
+16
+J♥ 10♦ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+8♦ 10♠ 
+18
+7♠ 10♣ J♥ 
+28
+AI Overhited
+Win
+
+user_name: John
+9♥ 8♦ 
+17
+8♠ A♥ K♥ 
+22
+AI Overhited
+Win
+
+user_name: John
+5♦ 6♥ 4♦ 
+15
+K♦ 10♣ 
+23
+AI Overhited
+Win
+
+user_name: John
+J♦ J♥ 
+22
+7♠ 
+7
+User Overhited
+Lose
+
+user_name: John
+3♠ 5♥ 8♠ 
+16
+7♠ A♠ K♦ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+10♥ J♥ 
+21
+5♥ 
+5
+User Jack
+WinJack
+
+user_name: John
+4♥ 9♥ 9♦ 
+22
+6♣ 
+6
+User Overhited
+Lose
+
+user_name: John
+2♦ 6♣ 8♠ 
+16
+A♦ 7♣ 6♦ J♥ 
+25
+AI Overhited
+Win
+
+user_name: John
+A♥ 10♣ 8♣ 
+19
+5♥ Q♣ Q♥ 
+29
+AI Overhited
+Win
+
+user_name: John
+6♣ K♠ 
+19
+9♦ Q♥ 
+21
+AI Jack
+LoseJack
+
+user_name: John
+8♥ A♣ 3♦ 10♦ 
+22
+J♦ 
+11
+User Overhited
+Lose
+
+user_name: John
+7♦ K♥ 
+20
+8♣ 3♣ 6♣ 9♠ 
+26
+AI Overhited
+Win
+
+user_name: John
+J♣ 4♦ 
+15
+2♥ A♥ 8♠ Q♠ 
+23
+AI Overhited
+Win
+
+user_name: John
+3♦ 6♥ K♣ 
+22
+J♥ 
+11
+User Overhited
+Lose
+
+user_name: John
+8♥ 3♠ A♦ 7♥ 7♣ 
+26
+5♠ 
+5
+User Overhited
+Lose
+
+user_name: John
+3♠ 2♠ 7♦ 4♠ 
+16
+9♦ 5♠ 3♥ 
+17
+AI Raced
+Lose
+
+user_name: John
+2♥ 4♠ 8♥ Q♠ 
+26
+10♣ 
+10
+User Overhited
+Lose
+
+user_name: John
+3♠ 8♣ 6♥ 
+17
+J♣ A♦ 2♦ Q♦ 
+26
+AI Overhited
+Win
+
+user_name: John
+8♥ A♦ 5♣ 3♦ 
+17
+J♦ 6♣ 
+17
+Equal Points
+Draw
+
+user_name: John
+4♠ 9♥ 6♠ 
+19
+K♠ 4♦ 10♠ 
+27
+AI Overhited
+Win
+
+user_name: John
+J♠ 4♣ 
+15
+8♣ 5♦ 6♠ 
+19
+AI Raced
+Lose
+
+user_name: John
+A♣ Q♠ A♠ 3♦ 
+17
+K♦ 9♦ 
+22
+AI Overhited
+Win
+
+user_name: John
+10♣ 3♦ 4♥ 
+17
+5♠ 9♦ 10♠ 
+24
+AI Overhited
+Win
+
+user_name: John
+5♣ 10♠ Q♣ 
+27
+A♦ 
+1
+User Overhited
+Lose
+
+user_name: John
+9♣ J♥ 
+20
+J♦ A♣ 10♦ 
+22
+AI Overhited
+Win
+
+user_name: John
+3♠ 9♠ J♣ 
+23
+7♦ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+6♦ 9♠ Q♥ 
+27
+7♥ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+A♥ K♣ Q♣ 
+26
+7♠ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+7♣ 2♦ A♦ 8♠ 
+18
+10♥ 10♠ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+9♥ 5♥ 
+14
+8♠ 5♠ 2♦ 
+15
+AI Raced
+Lose
+
+user_name: Alex
+9♦ A♠ 7♠ 
+17
+7♦ 3♦ 8♦ 
+18
+AI Raced
+Lose
+
+user_name: Alex
+Q♠ 10♦ 
+22
+7♦ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+10♠ 3♠ 10♦ 
+23
+2♥ 
+2
+User Overhited
+Lose
+
+user_name: Alex
+7♦ Q♠ 
+19
+5♦ 7♥ 2♥ 8♠ 
+22
+AI Overhited
+Win
+
+user_name: Alex
+7♠ 5♥ 7♣ 
+19
+Q♠ 10♣ 
+22
+AI Overhited
+Win
+
+user_name: Alex
+9♠ 3♥ 7♠ 
+19
+4♠ 5♠ J♠ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+Q♥ 8♠ 
+20
+K♥ 3♠ 4♦ 
+20
+Equal Points
+Draw
+
+user_name: Alex
+A♣ A♠ 3♦ A♦ Q♠ 
+18
+2♣ Q♣ K♠ 
+27
+AI Overhited
+Win
+
+user_name: Alex
+K♥ 5♠ 
+18
+8♦ A♥ 7♥ 3♣ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+3♥ 10♥ 5♣ 
+18
+9♥ A♣ 2♦ 2♠ 5♦ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+4♥ 2♥ 7♥ 5♠ 
+18
+J♣ 8♦ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+Q♣ 10♦ 
+22
+K♠ 
+13
+User Overhited
+Lose
+
+user_name: Alex
+Q♠ 4♠ 
+16
+2♦ K♦ 4♣ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+Q♣ 3♦ A♥ 
+16
+2♥ 2♠ 3♣ 4♥ 5♦ 
+16
+Equal Points
+Draw
+
+user_name: Alex
+J♦ Q♠ 
+23
+Q♣ 
+12
+User Overhited
+Lose
+
+user_name: Alex
+7♦ 2♦ 2♥ 2♠ Q♥ 
+25
+6♠ 
+6
+User Overhited
+Lose
+
+user_name: Alex
+9♥ 8♥ 
+17
+6♥ J♥ 
+17
+Equal Points
+Draw
+
+user_name: Alex
+10♣ K♠ 
+23
+K♦ 
+13
+User Overhited
+Lose
+
+user_name: Alex
+3♦ 2♠ K♦ 
+18
+K♠ K♥ 
+26
+AI Overhited
+Win
+
+user_name: Alex
+J♠ 9♦ 
+20
+Q♥ 5♠ Q♣ 
+29
+AI Overhited
+Win
+
+user_name: Alex
+5♥ 10♦ 6♠ 
+21
+2♣ 
+2
+User Jack
+WinJack
+
+user_name: Alex
+2♣ Q♠ 5♠ 
+19
+10♥ 7♣ 4♠ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+Q♥ 4♦ 
+16
+8♥ J♠ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+9♦ 4♣ 8♣ 
+21
+6♣ 
+6
+User Jack
+WinJack
+
+user_name: Alex
+2♥ J♠ 4♠ 
+17
+9♠ 5♥ 8♠ 
+22
+AI Overhited
+Win
+
+user_name: Alex
+8♥ 7♥ A♦ 
+16
+4♠ 7♣ 3♦ 4♦ 
+18
+AI Raced
+Lose
+
+user_name: Alex
+K♦ 6♦ 
+19
+8♣ 2♠ A♠ 6♣ J♥ 
+28
+AI Overhited
+Win
+
+user_name: Alex
+4♦ 8♠ 7♣ 
+19
+3♦ K♦ 2♠ Q♥ 
+30
+AI Overhited
+Win
+
+user_name: Alex
+10♥ J♠ 
+21
+10♠ 
+10
+User Jack
+WinJack
+
+user_name: Alex
+Q♥ 3♦ A♦ 
+16
+4♦ 10♣ A♠ 6♥ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+A♣ 3♦ 8♦ Q♦ 
+24
+J♥ 
+11
+User Overhited
+Lose
+
+user_name: Alex
+8♠ A♦ 6♦ K♠ 
+28
+3♥ 
+3
+User Overhited
+Lose
+
+user_name: Alex
+2♣ Q♣ 
+14
+A♣ 9♠ A♠ 9♥ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+K♠ 8♥ 
+21
+3♠ 
+3
+User Jack
+WinJack
+
+user_name: Alex
+7♣ Q♣ 
+19
+7♥ 5♦ K♠ 
+25
+AI Overhited
+Win
+
+user_name: Alex
+7♥ 5♣ A♦ 10♥ 
+23
+6♣ 
+6
+User Overhited
+Lose
+
+user_name: Alex
+Q♦ 6♦ 
+18
+2♥ 8♣ 6♣ 7♣ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+9♥ 5♣ 10♣ 
+24
+J♥ 
+11
+User Overhited
+Lose
+
+user_name: Alex
+6♣ 2♠ Q♦ 
+20
+8♦ 9♣ 3♦ 
+20
+Equal Points
+Draw
+
+user_name: Alex
+3♠ 10♠ K♥ 
+26
+6♥ 
+6
+User Overhited
+Lose
+
+user_name: Alex
+8♣ 8♥ 7♥ 
+23
+3♥ 
+3
+User Overhited
+Lose
+
+user_name: Alex
+5♦ Q♦ 
+17
+9♣ 10♥ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+2♣ A♠ 5♥ J♥ 
+19
+3♣ 3♠ 7♥ A♥ 6♦ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+7♠ K♥ 
+20
+J♥ 3♥ J♣ 
+25
+AI Overhited
+Win
+
+user_name: Alex
+5♥ 8♠ 9♣ 
+22
+3♣ 
+3
+User Overhited
+Lose
+
+user_name: Alex
+3♦ 5♠ 7♠ 
+15
+A♦ K♥ 5♥ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+6♥ K♥ 
+19
+5♠ J♦ A♠ A♣ 10♦ 
+28
+AI Overhited
+Win
+
+user_name: Alex
+J♠ K♠ 
+24
+K♣ 
+13
+User Overhited
+Lose
+
+user_name: Alex
+7♥ 10♦ 
+17
+4♣ 8♣ 7♠ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+8♣ J♠ 
+19
+10♦ 3♥ 4♦ 7♣ 
+24
+AI Overhited
+Win
+
+user_name: Alex
+5♠ J♥ 
+16
+A♦ 8♣ 6♥ 10♥ 
+25
+AI Overhited
+Win
+
+user_name: Alex
+8♠ K♣ 
+21
+4♦ 
+4
+User Jack
+WinJack
+
+user_name: Alex
+10♣ K♣ 
+23
+4♣ 
+4
+User Overhited
+Lose
+
+user_name: Alex
+3♦ Q♠ 5♣ 
+20
+K♦ 10♠ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+3♠ K♦ 
+16
+4♦ 5♦ A♠ 2♠ 6♥ 
+18
+AI Raced
+Lose
+
+user_name: Alex
+Q♥ 5♠ 
+17
+3♥ J♥ 6♠ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+5♥ 5♠ K♦ 
+23
+8♠ 
+8
+User Overhited
+Lose
+
+user_name: Alex
+4♣ 5♥ 7♥ 
+16
+9♣ A♠ 6♣ 
+16
+Equal Points
+Draw
+
+user_name: Alex
+5♠ 4♣ 4♥ Q♥ 
+25
+3♠ 
+3
+User Overhited
+Lose
+
+user_name: Alex
+J♣ K♠ 
+24
+7♥ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+A♥ K♠ 
+14
+7♥ K♣ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+5♦ Q♠ 
+17
+2♦ 8♥ K♦ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+10♣ 10♦ 
+20
+8♠ 4♦ 10♠ 
+22
+AI Overhited
+Win
+
+user_name: Alex
+J♠ K♥ 
+24
+J♥ 
+11
+User Overhited
+Lose
+
+user_name: Alex
+7♣ A♦ J♠ 
+19
+3♠ J♦ 6♠ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+Q♠ 8♦ 
+20
+Q♦ Q♣ 
+24
+AI Overhited
+Win
+
+user_name: Alex
+2♥ K♠ 
+15
+6♠ 7♣ 6♦ 
+19
+AI Raced
+Lose
+
+user_name: Alex
+3♦ K♠ Q♦ 
+28
+7♠ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+10♠ 2♦ A♥ 10♣ 
+23
+8♠ 
+8
+User Overhited
+Lose
+
+user_name: Alex
+2♣ 3♦ 9♣ 
+14
+3♠ 9♥ J♣ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+2♠ 2♥ 7♥ Q♦ 
+23
+3♦ 
+3
+User Overhited
+Lose
+
+user_name: Alex
+9♣ J♥ 
+20
+2♣ K♦ 10♦ 
+25
+AI Overhited
+Win
+
+user_name: Alex
+9♥ J♥ 
+20
+Q♠ 9♣ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+4♦ Q♠ 
+16
+2♣ J♣ K♠ 
+26
+AI Overhited
+Win
+
+user_name: Alex
+A♥ K♦ 
+14
+9♠ Q♣ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+8♥ 6♠ 
+14
+J♦ 6♣ 
+17
+AI Raced
+Lose
+
+user_name: Alex
+3♣ J♥ 4♣ 
+18
+8♣ 6♦ 9♠ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+Q♦ 7♥ 
+19
+4♠ 6♠ 5♦ 8♥ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+6♠ 7♥ Q♣ 
+25
+10♣ 
+10
+User Overhited
+Lose
+
+user_name: Alex
+Q♥ 10♠ 
+22
+Q♣ 
+12
+User Overhited
+Lose
+
+user_name: Alex
+2♠ Q♦ J♥ 
+25
+9♦ 
+9
+User Overhited
+Lose
+
+user_name: Alex
+7♥ 2♣ 6♣ 
+15
+10♥ K♥ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+K♦ 7♣ 
+20
+7♠ A♥ Q♠ 
+20
+Equal Points
+Draw
+
+user_name: Alex
+J♦ 3♥ J♥ 
+25
+3♦ 
+3
+User Overhited
+Lose
+
+user_name: Alex
+7♥ Q♥ 
+19
+J♠ 4♣ 2♣ 3♠ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+A♠ 5♣ A♦ 3♠ Q♦ 
+22
+7♦ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+5♣ 7♣ J♣ 
+23
+A♠ 
+1
+User Overhited
+Lose
+
+user_name: Alex
+6♥ Q♣ 
+18
+10♦ 6♦ 5♠ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+3♥ 4♠ 10♣ 
+17
+K♥ A♥ 10♠ 
+24
+AI Overhited
+Win
+
+user_name: Alex
+9♦ K♥ 
+22
+Q♥ 
+12
+User Overhited
+Lose
+
+user_name: Alex
+8♣ Q♣ 
+20
+7♦ 7♣ K♠ 
+27
+AI Overhited
+Win
+
+user_name: Alex
+7♦ Q♦ 
+19
+A♥ 6♣ Q♠ 
+19
+Equal Points
+Draw
+
+user_name: Alex
+2♦ 5♣ 7♦ 
+14
+Q♦ 9♥ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+Q♥ 3♦ 
+15
+5♠ J♥ 
+16
+AI Raced
+Lose
+
+user_name: Alex
+3♥ 10♥ 9♦ 
+22
+2♥ 
+2
+User Overhited
+Lose
+
+user_name: Alex
+2♦ 7♣ 3♠ K♠ 
+25
+2♥ 
+2
+User Overhited
+Lose
+
+user_name: Alex
+A♦ 10♣ 4♦ 
+15
+K♠ Q♦ 
+25
+AI Overhited
+Win
+
+user_name: Alex
+6♣ 4♣ 8♥ 
+18
+5♠ Q♣ K♣ 
+30
+AI Overhited
+Win
+
+user_name: Alex
+8♠ 10♠ 
+18
+5♣ Q♦ Q♥ 
+29
+AI Overhited
+Win
+
+user_name: Alex
+3♠ 10♠ K♥ 
+26
+7♠ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+J♠ 5♦ 
+16
+10♥ 6♥ 
+16
+Equal Points
+Draw
+
+user_name: Alex
+J♣ 10♦ 
+21
+J♠ 
+11
+User Jack
+WinJack
+
+user_name: Alex
+A♠ J♣ 9♥ 
+21
+K♠ 
+13
+User Jack
+WinJack
+
+user_name: Alex
+K♣ 9♣ 
+22
+8♣ 
+8
+User Overhited
+Lose
+
+user_name: Alex
+3♣ 4♠ 7♠ 10♦ 
+24
+J♥ 
+11
+User Overhited
+Lose
+
+user_name: Alex
+K♣ 8♥ 
+21
+7♣ 
+7
+User Jack
+WinJack
+
+user_name: Alex
+Q♥ 4♠ 
+16
+2♥ 8♦ Q♦ 
+22
+AI Overhited
+Win
+
+user_name: Alex
+10♣ 9♥ 
+19
+5♠ 4♣ 6♦ 3♠ J♣ 
+29
+AI Overhited
+Win
+
+user_name: Alex
+2♦ 8♠ 
+10
+4♦ 5♥ Q♥ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+9♥ 5♥ 
+14
+5♠ 8♦ Q♥ 
+25
+AI Overhited
+Win
+
+user_name: Alex
+2♣ Q♦ 
+14
+Q♥ 5♦ 
+17
+AI Raced
+Lose
+
+user_name: Alex
+9♥ K♣ 
+22
+7♦ 
+7
+User Overhited
+Lose
+
+user_name: Alex
+A♣ 4♣ 10♣ 
+15
+6♦ 7♠ 9♣ 
+22
+AI Overhited
+Win
+
+user_name: Alex
+7♣ 9♦ 
+16
+6♣ Q♥ 
+18
+AI Raced
+Lose
+
+user_name: Alex
+Q♥ A♠ 3♦ 
+16
+J♠ Q♣ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+8♦ 5♣ 9♦ 
+22
+Q♠ 
+12
+User Overhited
+Lose
+
+user_name: Alex
+Q♥ 10♠ 
+22
+J♥ 
+11
+User Overhited
+Lose
+
+user_name: Alex
+7♠ 4♣ A♥ 6♣ 
+18
+3♦ J♥ Q♣ 
+26
+AI Overhited
+Win
+
+user_name: Alex
+J♣ 9♣ 
+20
+K♣ 3♠ 7♦ 
+23
+AI Overhited
+Win
+
+user_name: Alex
+K♣ 7♠ 
+20
+2♠ 5♦ 9♥ A♥ 2♣ 5♥ 
+24
+AI Overhited
+Win
+
+user_name: Alex
+2♦ 4♥ 2♣ 5♣ 10♣ 
+23
+5♦ 
+5
+User Overhited
+Lose
+
+user_name: Alex
+Q♣ 10♦ 
+22
+6♦ 
+6
+User Overhited
+Lose
+
+user_name: Alex
+7♣ 5♣ 4♦ 
+16
+3♠ Q♠ 3♣ 
+18
+AI Raced
+Lose
+
+user_name: Alex
+J♣ 5♦ 
+16
+7♦ 10♦ 
+17
+AI Raced
+Lose
+
+user_name: Alex
+Q♦ 10♠ 
+22
+K♦ 
+13
+User Overhited
+Lose
+
+user_name: Alex
+7♠ 6♣ K♣ 
+26
+4♠ 
+4
+User Overhited
+Lose
+
+user_name: Alex
+5♦ K♦ 
+18
+5♠ 2♦ A♦ Q♥ 
+20
+AI Raced
+Lose
+
+user_name: Alex
+10♠ 10♣ 
+20
+9♠ 6♥ 4♦ 5♥ 
+24
+AI Overhited
+Win
+
+user_name: Alex
+K♣ J♠ 
+24
+9♦ 
+9
+User Overhited
+Lose
+
+user_name: Alex
+9♣ A♣ J♥ 
+21
+K♥ 
+13
+User Jack
+WinJack
+
+user_name: Alex
+A♠ J♣ 8♠ 
+20
+A♦ 4♥ 6♣ 5♣ 5♦ 
+21
+AI Jack
+LoseJack
+
+user_name: Alex
+J♣ 6♠ 
+17
+8♣ 10♥ 
+18
+AI Raced
+Lose
+
+user_name: Alex
+Q♥ J♥ 
+23
+2♠ 
+2
+User Overhited
+Lose
+
+user_name: Alex
+9♥ 4♠ Q♥ 
+25
+6♣ 
+6
+User Overhited
+Lose
+
+user_name: UserName
+Q♥ 5♣ 
+17
+A♦ 9♦ K♦ 
+23
+AI Overhited
+Win
+
+user_name: UserName
+10♦ 2♣ K♦ 
+25
+7♠ 
+7
+User Overhited
+Lose
+
+user_name: UserName
+J♣ 5♣ 
+16
+4♥ A♦ Q♣ 
+17
+AI Raced
+Lose
+
+user_name: UserName
+8♠ A♣ J♥ 
+20
+4♣ 7♣ A♠ 8♦ 
+20
+Equal Points
+Draw
+
+user_name: UserName
+9♣ Q♦ 
+21
+8♥ 
+8
+User Jack
+WinJack
+
+user_name: UserName
+7♠ 4♦ 7♣ 
+18
+2♣ Q♦ A♠ 10♥ 
+25
+AI Overhited
+Win
+
+user_name: UserName
+7♠ Q♣ 
+19
+10♣ K♣ 
+23
+AI Overhited
+Win
+
+user_name: UserName
+9♥ 9♦ 
+18
+4♥ 3♣ 4♣ 2♥ 5♣ 
+18
+Equal Points
+Draw
+
+user_name: UserName
+A♠ 9♦ 4♦ 3♥ 9♥ 
+26
+5♥ 
+5
+User Overhited
+Lose
+
+user_name: UserName
+Q♥ 9♣ 
+21
+6♥ 
+6
+User Jack
+WinJack
+
+user_name: UserName
+4♠ A♣ J♦ 
+16
+2♥ 5♦ 5♠ 3♠ 9♣ 
+24
+AI Overhited
+Win
+
+user_name: UserName
+9♠ 2♣ Q♣ 
+23
+A♠ 
+1
+User Overhited
+Lose
+
+user_name: UserName
+5♠ J♥ 
+16
+9♥ Q♣ 
+21
+AI Jack
+LoseJack
+
+user_name: UserName
+5♦ 3♣ 10♣ 
+18
+K♣ 10♠ 
+23
+AI Overhited
+Win
+
+user_name: UserName
+7♠ A♠ 2♦ 6♠ 
+16
+10♣ 9♣ 
+19
+AI Raced
+Lose
+
+user_name: UserName
+4♦ 10♣ A♠ 
+15
+10♦ Q♠ 
+22
+AI Overhited
+Win

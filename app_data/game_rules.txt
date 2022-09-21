@@ -1,0 +1,30 @@
+Cyberjack is a variant of Blackjack and Twenty-One.
+
+The main differences are that each card corresponds
+to its own specific denomination:
+
+Kings  - 13
+Queens - 12
+Jacks  - 11
+Tens   - 10
+Nines  - 9
+Eights - 8
+Sevens - 7
+Sixes  - 6
+Fives  - 5 
+Fours  - 4
+Threes - 3
+Twos   - 2
+Aces   - 1
+
+Your aim is to get to, or get as close as possible to, a total value of 21. 
+/The defoult bet is 50 mk, but you can change it! (press '2')/
+At the beginning, the player chooses a bet, then after pressing the HIT button, the player gets 2 cards, and the dealer gets one.
+
+After the initial draw, more cards may be drawn in order to increase the total value of the cards in hand by clicking the HIT. 
+
+Cards may be drawn from the deck until the value of the cards in hand gets high enough to stand with them , by getting a CyberJack (total value 21), or by busting (going past 21).
+
+STAND allow the dealer to start drawing cards for himself, following the same rules as the player. If the dealer draws cards with a total value of more than the player without exceeding 21, the game is lost, and if the dealer draws too many cards and busts (goes over 21) the game is won.
+
+So GOODLUCK and have FUN!!!

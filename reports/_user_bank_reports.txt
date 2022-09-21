@@ -1,0 +1,1990 @@
+20:47 21.09.202220/09/2022 08:02:37_user_bank inited!
+_user_bank_balance: 4$
+
+
+20/09/2022 08:02:45_user_bet Accepted!
+_user_bank_balance: 4$
+_user_bet: 1$
+_user_bank: -1$
+_user_bank_balance: 3$
+
+20/09/2022 08:02:47_user_bet: Win!
+_user_bank_balance: 3$
+_user_bet: 1$
+_draw_bet: 1 * 2 = 1$
+_user_bank: +1$
+_user_bank_balance: 4$
+
+
+20/09/2022 08:02:58_user_bet Accepted!
+_user_bank_balance: 4$
+_user_bet: 1$
+_user_bank: -1$
+_user_bank_balance: 3$
+
+20/09/2022 08:03:00_user_bet: Lose!
+
+
+20/09/2022 08:03:02_user_bet Accepted!
+_user_bank_balance: 3$
+_user_bet: 1$
+_user_bank: -1$
+_user_bank_balance: 2$
+
+20/09/2022 08:03:02_user_bet: Lose!
+
+
+20/09/2022 08:03:03_user_bet Accepted!
+_user_bank_balance: 2$
+_user_bet: 1$
+_user_bank: -1$
+_user_bank_balance: 1$
+
+20/09/2022 08:03:06_user_bet: Draw!
+20/09/2022 08:03:52_user_bank inited!
+_user_bank_balance: 2000$
+
+
+20/09/2022 08:03:54_user_bet Accepted!
+_user_bank_balance: 2000$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1950$
+
+20/09/2022 08:03:56_user_bet: Lose!
+
+
+20/09/2022 08:03:57_user_bet Accepted!
+_user_bank_balance: 1950$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1900$
+
+20/09/2022 08:04:00_user_bet: Win!
+_user_bank_balance: 1900$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 2000$
+
+
+20/09/2022 08:04:01_user_bet Accepted!
+_user_bank_balance: 2000$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1950$
+
+20/09/2022 08:04:03_user_bet: Draw!
+_user_bank_balance: 1950$
+_user_bet: 50$
+_draw_bet: 50 * 0.6 = 30$
+_user_bank: +30$
+_user_bank_balance: 1980$
+20/09/2022 08:07:05_user_bank inited!
+_user_bank_balance: 1950$
+
+
+20/09/2022 08:07:10_user_bet Accepted!
+_user_bank_balance: 1950$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1900$
+
+20/09/2022 08:07:13_user_bet: Lose!
+
+
+20/09/2022 08:07:16_user_bet Accepted!
+_user_bank_balance: 1900$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1850$
+
+20/09/2022 08:07:20_user_bet: Lose!
+
+
+20/09/2022 08:07:22_user_bet Accepted!
+_user_bank_balance: 1850$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1800$
+
+20/09/2022 08:07:29_user_bet: Lose!
+
+
+20/09/2022 08:07:31_user_bet Accepted!
+_user_bank_balance: 1800$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1750$
+
+20/09/2022 08:07:33_user_bet: Lose!
+
+
+20/09/2022 08:07:36_user_bet Accepted!
+_user_bank_balance: 1750$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1700$
+
+20/09/2022 08:07:38_user_bet: LoseJack!
+_user_bank_balance: 1700$
+_user_bet: 50$
+_lose_bet: 50 * 2 = 100$
+_user_bank: -100$
+_user_bank_balance: 1600$
+20/09/2022 08:09:21_user_bank inited!
+_user_bank_balance: 1700$
+
+
+20/09/2022 08:09:22_user_bet Accepted!
+_user_bank_balance: 1700$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1650$
+
+20/09/2022 08:09:25_user_bet: Win!
+_user_bank_balance: 1650$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 1750$
+
+
+20/09/2022 08:09:40_user_bet Accepted!
+_user_bank_balance: 1750$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1700$
+
+20/09/2022 08:09:40_user_bet: Lose!
+
+
+20/09/2022 08:09:42_user_bet Accepted!
+_user_bank_balance: 1700$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1650$
+
+20/09/2022 08:09:45_user_bet: Win!
+_user_bank_balance: 1650$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 1750$
+
+
+20/09/2022 08:09:46_user_bet Accepted!
+_user_bank_balance: 1750$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1700$
+
+20/09/2022 08:09:48_user_bet: Draw!
+_user_bank_balance: 1700$
+_user_bet: 50$
+_draw_bet: 50 * 0.6 = 30$
+_user_bank: +30$
+_user_bank_balance: 1730$
+
+
+20/09/2022 08:09:50_user_bet Accepted!
+_user_bank_balance: 1730$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1680$
+
+20/09/2022 08:10:00_user_bet: LoseJack!
+_user_bank_balance: 1680$
+_user_bet: 50$
+_lose_bet: 50 * 2 = 100$
+_user_bank: -100$
+_user_bank_balance: 1580$
+20/09/2022 08:15:32_user_bank inited!
+_user_bank_balance: 1680$
+
+
+20/09/2022 08:15:33_user_bet Accepted!
+_user_bank_balance: 1680$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1630$
+
+20/09/2022 08:15:36_user_bet: Lose!
+20/09/2022 08:16:14_user_bank inited!
+_user_bank_balance: 1630$
+
+
+20/09/2022 08:16:18_user_bet Accepted!
+_user_bank_balance: 1630$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1580$
+
+20/09/2022 08:16:20_user_bet: Lose!
+
+
+20/09/2022 08:16:28_user_bet Accepted!
+_user_bank_balance: 1580$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1530$
+
+20/09/2022 08:16:32_user_bet: Lose!
+
+
+20/09/2022 08:16:33_user_bet Accepted!
+_user_bank_balance: 1530$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1480$
+
+20/09/2022 08:16:35_user_bet: Win!
+_user_bank_balance: 1480$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 1580$
+20/09/2022 08:22:56_user_bank inited!
+_user_bank_balance: 1480$
+
+
+20/09/2022 08:22:57_user_bet Accepted!
+_user_bank_balance: 1480$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1430$
+
+20/09/2022 08:23:00_user_bet: Win!
+_user_bank_balance: 1430$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 1530$
+20/09/2022 08:24:02_user_bank inited!
+_user_bank_balance: 1430$
+
+
+20/09/2022 08:24:03_user_bet Accepted!
+_user_bank_balance: 1430$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1380$
+
+20/09/2022 08:24:05_user_bet: Win!
+_user_bank_balance: 1380$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 1480$
+
+
+20/09/2022 08:24:27_user_bet Accepted!
+_user_bank_balance: 1480$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1430$
+
+20/09/2022 08:24:29_user_bet: Lose!
+
+
+20/09/2022 08:24:31_user_bet Accepted!
+_user_bank_balance: 1430$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1380$
+
+20/09/2022 08:24:33_user_bet: Draw!
+_user_bank_balance: 1380$
+_user_bet: 50$
+_draw_bet: 50 * 0.6 = 30$
+_user_bank: +30$
+_user_bank_balance: 1410$
+
+
+20/09/2022 08:24:48_user_bet Accepted!
+_user_bank_balance: 1410$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 1210$
+
+20/09/2022 08:24:49_user_bet: WinJack!
+_user_bank_balance: 1210$
+_user_bet: 200$
+_win_bet: 200 * 6 = 1200$
+_user_bank: +1200$
+_user_bank_balance: 2410$
+
+
+20/09/2022 08:25:19_user_bet Accepted!
+_user_bank_balance: 2410$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 2210$
+
+20/09/2022 08:25:21_user_bet: WinJack!
+_user_bank_balance: 2210$
+_user_bet: 200$
+_win_bet: 200 * 6 = 1200$
+_user_bank: +1200$
+_user_bank_balance: 3410$
+
+
+20/09/2022 08:25:24_user_bet Accepted!
+_user_bank_balance: 3410$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 3210$
+
+20/09/2022 08:25:24_user_bet: Lose!
+
+
+20/09/2022 08:25:28_user_bet Accepted!
+_user_bank_balance: 3210$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 3010$
+
+20/09/2022 08:25:32_user_bet: Lose!
+
+
+20/09/2022 08:25:33_user_bet Accepted!
+_user_bank_balance: 3010$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 2810$
+
+20/09/2022 08:25:33_user_bet: WinJack!
+_user_bank_balance: 2810$
+_user_bet: 200$
+_win_bet: 200 * 6 = 1200$
+_user_bank: +1200$
+_user_bank_balance: 4010$
+
+
+20/09/2022 08:25:41_user_bet Accepted!
+_user_bank_balance: 4010$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 3810$
+
+20/09/2022 08:25:42_user_bet: Win!
+_user_bank_balance: 3810$
+_user_bet: 200$
+_win_bet: 200 * 2 = 400$
+_user_bank: +400$
+_user_bank_balance: 4210$
+
+
+20/09/2022 08:26:01_user_bet Accepted!
+_user_bank_balance: 4210$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 4010$
+
+20/09/2022 08:26:02_user_bet: Win!
+_user_bank_balance: 4010$
+_user_bet: 200$
+_win_bet: 200 * 2 = 400$
+_user_bank: +400$
+_user_bank_balance: 4410$
+20/09/2022 08:30:38_user_bank inited!
+_user_bank_balance: 4010$
+20/09/2022 08:32:01_user_bank inited!
+_user_bank_balance: 4010$
+20/09/2022 08:33:15_user_bank inited!
+_user_bank_balance: 4010$
+20/09/2022 08:34:38_user_bank inited!
+_user_bank_balance: 4010$
+20/09/2022 08:37:59_user_bank inited!
+_user_bank_balance: 4010$
+
+20/09/2022 08:38:27_user_bet: LoseJack!
+_user_bank_balance: 4010$
+_user_bet: 50$
+_lose_bet: 50 * 2 = 100$
+_user_bank: -100$
+_user_bank_balance: 3910$
+
+20/09/2022 08:38:47_user_bet: Win!
+_user_bank_balance: 3910$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 4010$
+
+20/09/2022 08:38:58_user_bet: Lose!
+20/09/2022 08:46:13_user_bank inited!
+_user_bank_balance: 4010$
+20/09/2022 08:47:50_user_bank inited!
+_user_bank_balance: 4010$
+
+
+20/09/2022 08:47:53_user_bet Accepted!
+_user_bank_balance: 4010$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3960$
+20/09/2022 08:56:13_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:00:20_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:05:42_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:08:10_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:13:29_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:13:57_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:14:12_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:14:52_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:15:37_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:15:48_user_bank inited!
+_user_bank_balance: 3960$
+20/09/2022 09:15:59_user_bank inited!
+_user_bank_balance: 3960$
+
+
+20/09/2022 09:16:10_user_bet Accepted!
+_user_bank_balance: 3960$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3910$
+
+20/09/2022 09:16:10_user_bet: Lose!
+
+
+20/09/2022 09:16:12_user_bet Accepted!
+_user_bank_balance: 3910$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3860$
+
+20/09/2022 09:16:16_user_bet: Win!
+_user_bank_balance: 3860$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 3960$
+
+
+20/09/2022 09:16:20_user_bet Accepted!
+_user_bank_balance: 3960$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3910$
+
+20/09/2022 09:16:23_user_bet: Lose!
+
+
+20/09/2022 09:16:24_user_bet Accepted!
+_user_bank_balance: 3910$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3860$
+
+20/09/2022 09:16:27_user_bet: Win!
+_user_bank_balance: 3860$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 3960$
+
+
+20/09/2022 09:16:37_user_bet Accepted!
+_user_bank_balance: 3960$
+_user_bet: 100$
+_user_bank: -100$
+_user_bank_balance: 3860$
+
+20/09/2022 09:16:40_user_bet: Lose!
+
+
+20/09/2022 09:16:46_user_bet Accepted!
+_user_bank_balance: 3860$
+_user_bet: 200$
+_user_bank: -200$
+_user_bank_balance: 3660$
+
+20/09/2022 09:16:47_user_bet: Lose!
+
+
+20/09/2022 09:16:56_user_bet Accepted!
+_user_bank_balance: 3660$
+_user_bet: 400$
+_user_bank: -400$
+_user_bank_balance: 3260$
+
+20/09/2022 09:17:00_user_bet: Win!
+_user_bank_balance: 3260$
+_user_bet: 400$
+_win_bet: 400 * 2 = 800$
+_user_bank: +800$
+_user_bank_balance: 4060$
+20/09/2022 09:20:51_user_bank inited!
+_user_bank_balance: 3260$
+20/09/2022 09:25:10_user_bank inited!
+_user_bank_balance: 3260$
+20/09/2022 09:25:37_user_bank inited!
+_user_bank_balance: 3260$
+20/09/2022 09:32:06_user_bank inited!
+_user_bank_balance: 3260$
+20/09/2022 09:32:15_user_bank inited!
+_user_bank_balance: 3260$
+20/09/2022 09:32:43_user_bank inited!
+_user_bank_balance: 3260$
+20/09/2022 09:33:16_user_bank inited!
+_user_bank_balance: 3260$
+20/09/2022 09:33:45_user_bank inited!
+_user_bank_balance: 3260$
+
+
+20/09/2022 09:33:49_user_bet Accepted!
+_user_bank_balance: 3260$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3210$
+
+20/09/2022 09:33:54_user_bet: Win!
+_user_bank_balance: 3210$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 3310$
+20/09/2022 09:34:12_user_bank inited!
+_user_bank_balance: 3210$
+20/09/2022 09:34:33_user_bank inited!
+_user_bank_balance: 3210$
+20/09/2022 09:36:37_user_bank inited!
+_user_bank_balance: 3210$
+20/09/2022 09:37:10_user_bank inited!
+_user_bank_balance: 3210$
+20/09/2022 09:37:27_user_bank inited!
+_user_bank_balance: 3210$
+20/09/2022 09:38:04_user_bank inited!
+_user_bank_balance: 3210$
+20/09/2022 09:38:51_user_bank inited!
+_user_bank_balance: 3210$
+21/09/2022 17:56:14_user_bank inited!
+_user_bank_balance: 3210$
+21/09/2022 17:58:06_user_bank inited!
+_user_bank_balance: 3210$
+21/09/2022 17:58:42_user_bank inited!
+_user_bank_balance: 3210$
+21/09/2022 17:59:35_user_bank inited!
+_user_bank_balance: 3210$
+21/09/2022 18:02:13_user_bank inited!
+_user_bank_balance: 3210$
+21/09/2022 18:04:13_user_bank inited!
+_user_bank_balance: 3210$
+
+
+21/09/2022 18:04:17_user_bet Accepted!
+_user_bank_balance: 3210$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3160$
+
+21/09/2022 18:04:17_user_bet: Lose!
+21/09/2022 18:04:29_user_bank inited!
+_user_bank_balance: 3160$
+21/09/2022 18:05:40_user_bank inited!
+_user_bank_balance: 3160$
+21/09/2022 18:05:57_user_bank inited!
+_user_bank_balance: 3160$
+21/09/2022 18:06:09_user_bank inited!
+_user_bank_balance: 3160$
+21/09/2022 18:06:33_user_bank inited!
+_user_bank_balance: 3160$
+
+
+21/09/2022 18:06:34_user_bet Accepted!
+_user_bank_balance: 3160$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3110$
+
+21/09/2022 18:06:36_user_bet: Lose!
+21/09/2022 18:06:40_user_bank inited!
+_user_bank_balance: 3110$
+21/09/2022 18:08:01_user_bank inited!
+_user_bank_balance: 3110$
+21/09/2022 18:08:05_user_bank inited!
+_user_bank_balance: 3110$
+21/09/2022 18:08:17_user_bank inited!
+_user_bank_balance: 3110$
+21/09/2022 18:09:33_user_bank inited!
+_user_bank_balance: 3110$
+21/09/2022 18:10:00_user_bank inited!
+_user_bank_balance: 3110$
+21/09/2022 18:10:12_user_bank inited!
+_user_bank_balance: 3110$
+
+
+21/09/2022 18:10:18_user_bet Accepted!
+_user_bank_balance: 3110$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3060$
+
+21/09/2022 18:10:18_user_bet: Lose!
+21/09/2022 18:11:01_user_bank inited!
+_user_bank_balance: 3060$
+21/09/2022 18:11:14_user_bank inited!
+_user_bank_balance: 3060$
+
+
+21/09/2022 18:11:17_user_bet Accepted!
+_user_bank_balance: 3060$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 3010$
+
+21/09/2022 18:11:18_user_bet: LoseJack!
+_user_bank_balance: 3010$
+_user_bet: 50$
+_lose_bet: 50 * 2 = 100$
+_user_bank: -100$
+_user_bank_balance: 2910$
+21/09/2022 18:12:17_user_bank inited!
+_user_bank_balance: 3010$
+21/09/2022 18:12:37_user_bank inited!
+_user_bank_balance: 3010$
+21/09/2022 18:13:20_user_bank inited!
+_user_bank_balance: 3010$
+21/09/2022 18:14:10_user_bank inited!
+_user_bank_balance: 3010$
+21/09/2022 18:14:35_user_bank inited!
+_user_bank_balance: 3010$
+21/09/2022 18:15:33_user_bank inited!
+_user_bank_balance: 3010$
+
+
+21/09/2022 18:15:35_user_bet Accepted!
+_user_bank_balance: 3010$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 2960$
+21/09/2022 18:16:22_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:17:13_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:17:23_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:17:28_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:17:59_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:18:23_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:18:37_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:19:13_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:20:53_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:21:15_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:25:18_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:25:25_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:26:25_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:29:58_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:30:41_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:32:02_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:32:54_user_bank inited!
+_user_bank_balance: 2960$
+21/09/2022 18:33:26_user_bank inited!
+_user_bank_balance: 2960$
+
+
+21/09/2022 18:33:44_user_bet Accepted!
+_user_bank_balance: 2960$
+_user_bet: 60$
+_user_bank: -60$
+_user_bank_balance: 2900$
+
+21/09/2022 18:33:49_user_bet: Win!
+_user_bank_balance: 2900$
+_user_bet: 60$
+_win_bet: 60 * 2 = 120$
+_user_bank: +120$
+_user_bank_balance: 3020$
+21/09/2022 18:35:05_user_bank inited!
+_user_bank_balance: 2900$
+
+
+21/09/2022 18:35:06_user_bet Accepted!
+_user_bank_balance: 2900$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 2850$
+
+21/09/2022 18:35:09_user_bet: Win!
+_user_bank_balance: 2850$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 2950$
+
+
+21/09/2022 18:35:20_user_bet Accepted!
+_user_bank_balance: 2950$
+_user_bet: 150$
+_user_bank: -150$
+_user_bank_balance: 2800$
+
+21/09/2022 18:35:26_user_bet: Lose!
+
+
+21/09/2022 18:35:32_user_bet Accepted!
+_user_bank_balance: 2800$
+_user_bet: 300$
+_user_bank: -300$
+_user_bank_balance: 2500$
+
+21/09/2022 18:35:32_user_bet: Lose!
+
+
+21/09/2022 18:35:40_user_bet Accepted!
+_user_bank_balance: 2500$
+_user_bet: 500$
+_user_bank: -500$
+_user_bank_balance: 2000$
+
+21/09/2022 18:35:43_user_bet: Lose!
+
+
+21/09/2022 18:36:00_user_bet Accepted!
+_user_bank_balance: 2000$
+_user_bet: 1000$
+_user_bank: -1000$
+_user_bank_balance: 1000$
+
+21/09/2022 18:36:02_user_bet: Lose!
+
+
+21/09/2022 18:36:06_user_bet Accepted!
+_user_bank_balance: 1000$
+_user_bet: 1000$
+_user_bank: -1000$
+_user_bank_balance: 0$
+
+21/09/2022 18:36:06_user_bet: Lose!
+
+
+21/09/2022 18:36:12_user_bet Denied!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:36:13_user_bet Denied!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:36:14_user_bet Denied!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:36:14_user_bet Denied!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:36:15_user_bet Denied!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:36:15_user_bet Denied!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:36:16_user_bet Denied!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:36:23_user_bet Denied!
+_user_bank_balance: 0$
+21/09/2022 18:38:09_user_bank inited!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:38:10_user_bet Denied!
+_user_bank_balance: 0$
+21/09/2022 18:38:31_user_bank inited!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:38:35_user_bet Denied!
+_user_bank_balance: 0$
+21/09/2022 18:38:42_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:40:21_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:49:32_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:50:24_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:50:39_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:50:55_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:51:08_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:52:54_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:53:28_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:53:38_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:54:23_user_bank inited!
+_user_bank_balance: 0$
+
+
+21/09/2022 18:54:24_user_bet Denied!
+_user_bank_balance: 0$
+21/09/2022 18:54:40_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:54:56_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:55:23_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:55:46_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:57:32_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 18:59:42_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 19:00:31_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 19:59:40_user_bank inited!
+_user_bank_balance: 0$
+21/09/2022 20:01:21_user_bank inited!
+_user_bank_balance: 2000$
+21/09/2022 20:09:15_user_bank inited!
+_user_bank_balance: 2000$
+
+
+21/09/2022 20:09:20 get_five: Win!
+_user_bank_balance: 2000$
+_user_bank: +500$
+_user_bank_balance: 2500$
+21/09/2022 20:20:55_user_bank inited!
+_user_bank_balance: 2500$
+
+
+21/09/2022 20:20:55 get_five: Accepted!
+_user_bank_balance: 2500$
+_user_bank: -50$
+_user_bank_balance: 2450$
+
+
+21/09/2022 20:20:55 get_five: Lose!
+
+
+21/09/2022 20:20:57 get_five: Accepted!
+_user_bank_balance: 2450$
+_user_bank: -50$
+_user_bank_balance: 2400$
+
+
+21/09/2022 20:20:57 get_five: Lose!
+
+
+21/09/2022 20:20:57 get_five: Accepted!
+_user_bank_balance: 2400$
+_user_bank: -50$
+_user_bank_balance: 2350$
+
+
+21/09/2022 20:20:57 get_five: Lose!
+
+
+21/09/2022 20:20:58 get_five: Accepted!
+_user_bank_balance: 2350$
+_user_bank: -50$
+_user_bank_balance: 2300$
+
+
+21/09/2022 20:20:58 get_five: Lose!
+
+
+21/09/2022 20:20:59 get_five: Accepted!
+_user_bank_balance: 2300$
+_user_bank: -50$
+_user_bank_balance: 2250$
+
+
+21/09/2022 20:20:59 get_five: Lose!
+
+
+21/09/2022 20:21:00 get_five: Accepted!
+_user_bank_balance: 2250$
+_user_bank: -50$
+_user_bank_balance: 2200$
+
+
+21/09/2022 20:21:00 get_five: Lose!
+21/09/2022 20:21:40_user_bank inited!
+_user_bank_balance: 2200$
+
+
+21/09/2022 20:21:41 get_five: Accepted!
+_user_bank_balance: 2200$
+_user_bank: -50$
+_user_bank_balance: 2150$
+
+
+21/09/2022 20:21:41 get_five: Lose!
+21/09/2022 20:22:23_user_bank inited!
+_user_bank_balance: 2150$
+
+
+21/09/2022 20:22:24 get_five: Accepted!
+_user_bank_balance: 2150$
+_user_bank: -50$
+_user_bank_balance: 2100$
+
+
+21/09/2022 20:22:24 get_five: Lose!
+
+
+21/09/2022 20:22:33 get_five: Accepted!
+_user_bank_balance: 2100$
+_user_bank: -50$
+_user_bank_balance: 2050$
+
+
+21/09/2022 20:22:33 get_five: Just!
+_user_bank_balance: 2050$
+_user_bank: +50$
+_user_bank_balance: 2100$
+21/09/2022 20:23:04_user_bank inited!
+_user_bank_balance: 2100$
+
+
+21/09/2022 20:23:05 get_five: Accepted!
+_user_bank_balance: 2100$
+_user_bank: -50$
+_user_bank_balance: 2050$
+
+
+21/09/2022 20:23:05 get_five: Lose!
+
+
+21/09/2022 20:23:08 get_five: Accepted!
+_user_bank_balance: 2050$
+_user_bank: -50$
+_user_bank_balance: 2000$
+
+
+21/09/2022 20:23:08 get_five: Lose!
+
+
+21/09/2022 20:23:10 get_five: Accepted!
+_user_bank_balance: 2000$
+_user_bank: -50$
+_user_bank_balance: 1950$
+
+
+21/09/2022 20:23:10 get_five: Lose!
+
+
+21/09/2022 20:23:12 get_five: Accepted!
+_user_bank_balance: 1950$
+_user_bank: -50$
+_user_bank_balance: 1900$
+
+
+21/09/2022 20:23:12 get_five: Lose!
+
+
+21/09/2022 20:23:13 get_five: Accepted!
+_user_bank_balance: 1900$
+_user_bank: -50$
+_user_bank_balance: 1850$
+
+
+21/09/2022 20:23:13 get_five: Lose!
+
+
+21/09/2022 20:23:14 get_five: Accepted!
+_user_bank_balance: 1850$
+_user_bank: -50$
+_user_bank_balance: 1800$
+
+
+21/09/2022 20:23:14 get_five: Lose!
+
+
+21/09/2022 20:23:15 get_five: Accepted!
+_user_bank_balance: 1800$
+_user_bank: -50$
+_user_bank_balance: 1750$
+
+
+21/09/2022 20:23:15 get_five: Lose!
+
+
+21/09/2022 20:23:17 get_five: Accepted!
+_user_bank_balance: 1750$
+_user_bank: -50$
+_user_bank_balance: 1700$
+
+
+21/09/2022 20:23:17 get_five: Lose!
+
+
+21/09/2022 20:23:18 get_five: Accepted!
+_user_bank_balance: 1700$
+_user_bank: -50$
+_user_bank_balance: 1650$
+
+
+21/09/2022 20:23:18 get_five: Lose!
+
+
+21/09/2022 20:23:19 get_five: Accepted!
+_user_bank_balance: 1650$
+_user_bank: -50$
+_user_bank_balance: 1600$
+
+
+21/09/2022 20:23:19 get_five: Lose!
+
+
+21/09/2022 20:23:19 get_five: Accepted!
+_user_bank_balance: 1600$
+_user_bank: -50$
+_user_bank_balance: 1550$
+
+
+21/09/2022 20:23:19 get_five: Lose!
+
+
+21/09/2022 20:23:21 get_five: Accepted!
+_user_bank_balance: 1550$
+_user_bank: -50$
+_user_bank_balance: 1500$
+
+
+21/09/2022 20:23:21 get_five: Lose!
+
+
+21/09/2022 20:23:22 get_five: Accepted!
+_user_bank_balance: 1500$
+_user_bank: -50$
+_user_bank_balance: 1450$
+
+
+21/09/2022 20:23:22 get_five: Lose!
+
+
+21/09/2022 20:23:23 get_five: Accepted!
+_user_bank_balance: 1450$
+_user_bank: -50$
+_user_bank_balance: 1400$
+
+
+21/09/2022 20:23:23 get_five: Lose!
+
+
+21/09/2022 20:23:24 get_five: Accepted!
+_user_bank_balance: 1400$
+_user_bank: -50$
+_user_bank_balance: 1350$
+
+
+21/09/2022 20:23:24 get_five: Lose!
+
+
+21/09/2022 20:23:25 get_five: Accepted!
+_user_bank_balance: 1350$
+_user_bank: -50$
+_user_bank_balance: 1300$
+
+
+21/09/2022 20:23:25 get_five: Lose!
+
+
+21/09/2022 20:23:26 get_five: Accepted!
+_user_bank_balance: 1300$
+_user_bank: -50$
+_user_bank_balance: 1250$
+
+
+21/09/2022 20:23:26 get_five: Lose!
+
+
+21/09/2022 20:23:27 get_five: Accepted!
+_user_bank_balance: 1250$
+_user_bank: -50$
+_user_bank_balance: 1200$
+
+
+21/09/2022 20:23:27 get_five: Lose!
+
+
+21/09/2022 20:23:28 get_five: Accepted!
+_user_bank_balance: 1200$
+_user_bank: -50$
+_user_bank_balance: 1150$
+
+
+21/09/2022 20:23:28 get_five: Lose!
+
+
+21/09/2022 20:23:29 get_five: Accepted!
+_user_bank_balance: 1150$
+_user_bank: -50$
+_user_bank_balance: 1100$
+
+
+21/09/2022 20:23:29 get_five: Lose!
+
+
+21/09/2022 20:23:29 get_five: Accepted!
+_user_bank_balance: 1100$
+_user_bank: -50$
+_user_bank_balance: 1050$
+
+
+21/09/2022 20:23:29 get_five: Lose!
+
+
+21/09/2022 20:23:30 get_five: Accepted!
+_user_bank_balance: 1050$
+_user_bank: -50$
+_user_bank_balance: 1000$
+
+
+21/09/2022 20:23:30 get_five: Lose!
+
+
+21/09/2022 20:23:31 get_five: Accepted!
+_user_bank_balance: 1000$
+_user_bank: -50$
+_user_bank_balance: 950$
+
+
+21/09/2022 20:23:31 get_five: Lose!
+
+
+21/09/2022 20:23:32 get_five: Accepted!
+_user_bank_balance: 950$
+_user_bank: -50$
+_user_bank_balance: 900$
+
+
+21/09/2022 20:23:32 get_five: Lose!
+
+
+21/09/2022 20:23:33 get_five: Accepted!
+_user_bank_balance: 900$
+_user_bank: -50$
+_user_bank_balance: 850$
+
+
+21/09/2022 20:23:33 get_five: Lose!
+
+
+21/09/2022 20:23:34 get_five: Accepted!
+_user_bank_balance: 850$
+_user_bank: -50$
+_user_bank_balance: 800$
+
+
+21/09/2022 20:23:34 get_five: Win!
+_user_bank_balance: 800$
+_user_bank: +500$
+_user_bank_balance: 1300$
+
+
+21/09/2022 20:24:16 get_five: Accepted!
+_user_bank_balance: 1300$
+_user_bank: -50$
+_user_bank_balance: 1250$
+
+
+21/09/2022 20:24:16 get_five: Win!
+_user_bank_balance: 1250$
+_user_bank: +500$
+_user_bank_balance: 1750$
+21/09/2022 20:25:19_user_bank inited!
+_user_bank_balance: 1750$
+
+
+21/09/2022 20:25:19 get_five: Accepted!
+_user_bank_balance: 1750$
+_user_bank: -50$
+_user_bank_balance: 1700$
+
+
+21/09/2022 20:25:19 get_five: Lose!
+21/09/2022 20:25:25_user_bank inited!
+_user_bank_balance: 1700$
+
+
+21/09/2022 20:25:25 get_five: Accepted!
+_user_bank_balance: 1700$
+_user_bank: -50$
+_user_bank_balance: 1650$
+
+
+21/09/2022 20:25:25 get_five: Lose!
+21/09/2022 20:25:59_user_bank inited!
+_user_bank_balance: 1650$
+
+
+21/09/2022 20:25:59 get_five: Accepted!
+_user_bank_balance: 1650$
+_user_bank: -50$
+_user_bank_balance: 1600$
+
+
+21/09/2022 20:25:59 get_five: Lose!
+21/09/2022 20:26:07_user_bank inited!
+_user_bank_balance: 1600$
+
+
+21/09/2022 20:26:08 get_five: Accepted!
+_user_bank_balance: 1600$
+_user_bank: -50$
+_user_bank_balance: 1550$
+
+
+21/09/2022 20:26:08 get_five: Lose!
+21/09/2022 20:26:49_user_bank inited!
+_user_bank_balance: 1550$
+
+
+21/09/2022 20:26:49 get_five: Accepted!
+_user_bank_balance: 1550$
+_user_bank: -50$
+_user_bank_balance: 1500$
+
+
+21/09/2022 20:26:49 get_five: Lose!
+
+
+21/09/2022 20:27:01 get_five: Accepted!
+_user_bank_balance: 1500$
+_user_bank: -50$
+_user_bank_balance: 1450$
+
+
+21/09/2022 20:27:01 get_five: Lose!
+
+
+21/09/2022 20:27:03 get_five: Accepted!
+_user_bank_balance: 1450$
+_user_bank: -50$
+_user_bank_balance: 1400$
+
+
+21/09/2022 20:27:03 get_five: Lose!
+
+
+21/09/2022 20:27:04 get_five: Accepted!
+_user_bank_balance: 1400$
+_user_bank: -50$
+_user_bank_balance: 1350$
+
+
+21/09/2022 20:27:04 get_five: Lose!
+
+
+21/09/2022 20:27:05 get_five: Accepted!
+_user_bank_balance: 1350$
+_user_bank: -50$
+_user_bank_balance: 1300$
+
+
+21/09/2022 20:27:05 get_five: Lose!
+
+
+21/09/2022 20:27:06 get_five: Accepted!
+_user_bank_balance: 1300$
+_user_bank: -50$
+_user_bank_balance: 1250$
+
+
+21/09/2022 20:27:06 get_five: Lose!
+
+
+21/09/2022 20:27:07 get_five: Accepted!
+_user_bank_balance: 1250$
+_user_bank: -50$
+_user_bank_balance: 1200$
+
+
+21/09/2022 20:27:07 get_five: Lose!
+
+
+21/09/2022 20:27:08 get_five: Accepted!
+_user_bank_balance: 1200$
+_user_bank: -50$
+_user_bank_balance: 1150$
+
+
+21/09/2022 20:27:08 get_five: Lose!
+
+
+21/09/2022 20:27:09 get_five: Accepted!
+_user_bank_balance: 1150$
+_user_bank: -50$
+_user_bank_balance: 1100$
+
+
+21/09/2022 20:27:09 get_five: Lose!
+
+
+21/09/2022 20:27:10 get_five: Accepted!
+_user_bank_balance: 1100$
+_user_bank: -50$
+_user_bank_balance: 1050$
+
+
+21/09/2022 20:27:10 get_five: Lose!
+
+
+21/09/2022 20:27:10 get_five: Accepted!
+_user_bank_balance: 1050$
+_user_bank: -50$
+_user_bank_balance: 1000$
+
+
+21/09/2022 20:27:10 get_five: Lose!
+
+
+21/09/2022 20:27:11 get_five: Accepted!
+_user_bank_balance: 1000$
+_user_bank: -50$
+_user_bank_balance: 950$
+
+
+21/09/2022 20:27:11 get_five: Win!
+_user_bank_balance: 950$
+_user_bank: +500$
+_user_bank_balance: 1450$
+
+
+21/09/2022 20:48:31 get_five: Accepted!
+_user_bank_balance: 1450$
+_user_bank: -50$
+_user_bank_balance: 1400$
+
+
+21/09/2022 20:48:31 get_five: Lose!
+21/09/2022 20:49:20_user_bank inited!
+_user_bank_balance: 1400$
+
+
+21/09/2022 20:49:24 get_five: Accepted!
+_user_bank_balance: 1400$
+_user_bank: -50$
+_user_bank_balance: 1350$
+
+
+21/09/2022 20:49:24 get_five: Lose!
+
+
+21/09/2022 20:49:27 get_five: Accepted!
+_user_bank_balance: 1350$
+_user_bank: -50$
+_user_bank_balance: 1300$
+
+
+21/09/2022 20:49:27 get_five: Lose!
+
+
+21/09/2022 20:49:29 get_five: Accepted!
+_user_bank_balance: 1300$
+_user_bank: -50$
+_user_bank_balance: 1250$
+
+
+21/09/2022 20:49:29 get_five: Lose!
+
+
+21/09/2022 20:49:31 get_five: Accepted!
+_user_bank_balance: 1250$
+_user_bank: -50$
+_user_bank_balance: 1200$
+
+
+21/09/2022 20:49:31 get_five: Lose!
+
+
+21/09/2022 20:49:32 get_five: Accepted!
+_user_bank_balance: 1200$
+_user_bank: -50$
+_user_bank_balance: 1150$
+
+
+21/09/2022 20:49:32 get_five: Lose!
+
+
+21/09/2022 20:49:32 get_five: Accepted!
+_user_bank_balance: 1150$
+_user_bank: -50$
+_user_bank_balance: 1100$
+
+
+21/09/2022 20:49:32 get_five: Lose!
+
+
+21/09/2022 20:49:33 get_five: Accepted!
+_user_bank_balance: 1100$
+_user_bank: -50$
+_user_bank_balance: 1050$
+
+
+21/09/2022 20:49:33 get_five: Lose!
+
+
+21/09/2022 20:49:34 get_five: Accepted!
+_user_bank_balance: 1050$
+_user_bank: -50$
+_user_bank_balance: 1000$
+
+
+21/09/2022 20:49:34 get_five: Lose!
+
+
+21/09/2022 20:49:35 get_five: Accepted!
+_user_bank_balance: 1000$
+_user_bank: -50$
+_user_bank_balance: 950$
+
+
+21/09/2022 20:49:35 get_five: Lose!
+
+
+21/09/2022 20:49:35 get_five: Accepted!
+_user_bank_balance: 950$
+_user_bank: -50$
+_user_bank_balance: 900$
+
+
+21/09/2022 20:49:35 get_five: Lose!
+
+
+21/09/2022 20:49:36 get_five: Accepted!
+_user_bank_balance: 900$
+_user_bank: -50$
+_user_bank_balance: 850$
+
+
+21/09/2022 20:49:36 get_five: Lose!
+
+
+21/09/2022 20:49:37 get_five: Accepted!
+_user_bank_balance: 850$
+_user_bank: -50$
+_user_bank_balance: 800$
+
+
+21/09/2022 20:49:37 get_five: Lose!
+
+
+21/09/2022 20:49:38_user_bet Accepted!
+_user_bank_balance: 800$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 750$
+
+21/09/2022 20:49:42_user_bet: Lose!
+
+
+21/09/2022 20:49:45 get_five: Accepted!
+_user_bank_balance: 750$
+_user_bank: -50$
+_user_bank_balance: 700$
+
+
+21/09/2022 20:49:45 get_five: Lose!
+
+
+21/09/2022 20:49:47_user_bet Accepted!
+_user_bank_balance: 700$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 650$
+
+21/09/2022 20:49:48_user_bet: Lose!
+
+
+21/09/2022 20:49:50_user_bet Accepted!
+_user_bank_balance: 650$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 600$
+
+21/09/2022 20:49:51_user_bet: Win!
+_user_bank_balance: 600$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 700$
+
+
+21/09/2022 20:50:06_user_bet Accepted!
+_user_bank_balance: 700$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 650$
+
+21/09/2022 20:50:06_user_bet: Lose!
+21/09/2022 20:51:23_user_bank inited!
+_user_bank_balance: 650$
+21/09/2022 20:53:13_user_bank inited!
+_user_bank_balance: 650$
+21/09/2022 20:53:23_user_bank inited!
+_user_bank_balance: 650$
+21/09/2022 20:56:48_user_bank inited!
+_user_bank_balance: 650$
+
+
+21/09/2022 20:56:49 get_five: Accepted!
+_user_bank_balance: 650$
+_user_bank: -50$
+_user_bank_balance: 600$
+21/09/2022 20:57:59_user_bank inited!
+_user_bank_balance: 600$
+
+
+21/09/2022 20:58:00 get_five: Accepted!
+_user_bank_balance: 600$
+_user_bank: -50$
+_user_bank_balance: 550$
+
+
+21/09/2022 20:58:00 get_five: Lose!
+
+
+21/09/2022 20:58:02 get_five: Accepted!
+_user_bank_balance: 550$
+_user_bank: -50$
+_user_bank_balance: 500$
+
+
+21/09/2022 20:58:02 get_five: Lose!
+
+
+21/09/2022 20:58:02 get_five: Accepted!
+_user_bank_balance: 500$
+_user_bank: -50$
+_user_bank_balance: 450$
+
+
+21/09/2022 20:58:02 get_five: Lose!
+
+
+21/09/2022 20:58:03 get_five: Accepted!
+_user_bank_balance: 450$
+_user_bank: -50$
+_user_bank_balance: 400$
+
+
+21/09/2022 20:58:03 get_five: Lose!
+
+
+21/09/2022 20:58:05 get_five: Accepted!
+_user_bank_balance: 400$
+_user_bank: -50$
+_user_bank_balance: 350$
+
+
+21/09/2022 20:58:05 get_five: Lose!
+
+
+21/09/2022 20:58:08 get_five: Accepted!
+_user_bank_balance: 350$
+_user_bank: -50$
+_user_bank_balance: 300$
+
+
+21/09/2022 20:58:08 get_five: Lose!
+
+
+21/09/2022 20:58:14_user_bet Accepted!
+_user_bank_balance: 300$
+_user_bet: 300$
+_user_bank: -300$
+_user_bank_balance: 0$
+
+21/09/2022 20:58:17_user_bet: WinJack!
+_user_bank_balance: 0$
+_user_bet: 300$
+_win_bet: 300 * 6 = 1800$
+_user_bank: +1800$
+_user_bank_balance: 1800$
+
+
+21/09/2022 20:58:53 get_five: Accepted!
+_user_bank_balance: 1800$
+_user_bank: -50$
+_user_bank_balance: 1750$
+
+
+21/09/2022 20:58:53 get_five: Lose!
+
+
+21/09/2022 20:58:56 get_five: Accepted!
+_user_bank_balance: 1750$
+_user_bank: -50$
+_user_bank_balance: 1700$
+
+
+21/09/2022 20:58:56 get_five: Lose!
+
+
+21/09/2022 20:58:57 get_five: Accepted!
+_user_bank_balance: 1700$
+_user_bank: -50$
+_user_bank_balance: 1650$
+
+
+21/09/2022 20:58:57 get_five: Lose!
+
+
+21/09/2022 20:58:58_user_bet Accepted!
+_user_bank_balance: 1650$
+_user_bet: 300$
+_user_bank: -300$
+_user_bank_balance: 1350$
+
+21/09/2022 20:59:01_user_bet: LoseJack!
+_user_bank_balance: 1350$
+_user_bet: 300$
+_lose_bet: 300 * 2 = 600$
+_user_bank: -600$
+_user_bank_balance: 750$
+
+
+21/09/2022 20:59:09_user_bet Accepted!
+_user_bank_balance: 750$
+_user_bet: 300$
+_user_bank: -300$
+_user_bank_balance: 450$
+
+21/09/2022 20:59:10_user_bet: Lose!
+
+
+21/09/2022 20:59:12_user_bet Accepted!
+_user_bank_balance: 450$
+_user_bet: 300$
+_user_bank: -300$
+_user_bank_balance: 150$
+
+21/09/2022 20:59:12_user_bet: Lose!
+
+
+21/09/2022 20:59:19_user_bet Denied!
+_user_bank_balance: 150$
+
+
+21/09/2022 20:59:23_user_bet Accepted!
+_user_bank_balance: 150$
+_user_bet: 150$
+_user_bank: -150$
+_user_bank_balance: 0$
+
+21/09/2022 20:59:24_user_bet: Lose!
+21/09/2022 21:00:58_user_bank inited!
+_user_bank_balance: 5000$
+21/09/2022 21:01:40_user_bank inited!
+_user_bank_balance: 5000$
+21/09/2022 21:03:56_user_bank inited!
+_user_bank_balance: 5000$
+21/09/2022 21:03:59_user_bank inited!
+_user_bank_balance: 5000$
+
+
+21/09/2022 21:03:59 get_five: Accepted!
+_user_bank_balance: 5000$
+_user_bank: -50$
+_user_bank_balance: 4950$
+
+
+21/09/2022 21:03:59 get_five: Lose!
+21/09/2022 21:04:03_user_bank inited!
+_user_bank_balance: 4950$
+21/09/2022 22:54:24_user_bank inited!
+_user_bank_balance: 4950$
+
+
+21/09/2022 22:54:26_user_bet Accepted!
+_user_bank_balance: 4950$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4900$
+21/09/2022 22:56:31_user_bank inited!
+_user_bank_balance: 4900$
+
+
+21/09/2022 22:56:32_user_bet Accepted!
+_user_bank_balance: 4900$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4850$
+
+21/09/2022 22:56:46_user_bet: Win!
+_user_bank_balance: 4850$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 4950$
+21/09/2022 22:57:12_user_bank inited!
+_user_bank_balance: 4850$
+
+
+21/09/2022 22:57:13_user_bet Accepted!
+_user_bank_balance: 4850$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4800$
+
+21/09/2022 22:57:17_user_bet: Lose!
+
+
+21/09/2022 22:57:22_user_bet Accepted!
+_user_bank_balance: 4800$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4750$
+
+21/09/2022 22:57:24_user_bet: Lose!
+
+
+21/09/2022 22:57:27_user_bet Accepted!
+_user_bank_balance: 4750$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4700$
+
+21/09/2022 22:57:30_user_bet: Draw!
+_user_bank_balance: 4700$
+_user_bet: 50$
+_draw_bet: 50 * 0.6 = 30$
+_user_bank: +30$
+_user_bank_balance: 4730$
+
+
+21/09/2022 22:57:37_user_bet Accepted!
+_user_bank_balance: 4730$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4680$
+
+21/09/2022 22:57:38_user_bet: WinJack!
+_user_bank_balance: 4680$
+_user_bet: 50$
+_win_bet: 50 * 6 = 300$
+_user_bank: +300$
+_user_bank_balance: 4980$
+
+
+21/09/2022 22:57:46_user_bet Accepted!
+_user_bank_balance: 4980$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4930$
+
+21/09/2022 22:57:49_user_bet: Win!
+_user_bank_balance: 4930$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 5030$
+
+
+21/09/2022 22:58:18_user_bet Accepted!
+_user_bank_balance: 5030$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4980$
+
+21/09/2022 23:59:24_user_bet: Win!
+_user_bank_balance: 4980$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 5080$
+21/09/2022 23:59:33_user_bank inited!
+_user_bank_balance: 4980$
+
+
+21/09/2022 23:59:41_user_bet Accepted!
+_user_bank_balance: 4980$
+_user_bet: 180$
+_user_bank: -180$
+_user_bank_balance: 4800$
+
+21/09/2022 23:59:43_user_bet: Draw!
+_user_bank_balance: 4800$
+_user_bet: 180$
+_draw_bet: 180 * 0.6 = 108$
+_user_bank: +108$
+_user_bank_balance: 4908$
+
+
+21/09/2022 23:59:53_user_bet Accepted!
+_user_bank_balance: 4908$
+_user_bet: 8$
+_user_bank: -8$
+_user_bank_balance: 4900$
+
+21/09/2022 23:59:56_user_bet: Lose!
+
+
+22/09/2022 00:00:02_user_bet Accepted!
+_user_bank_balance: 4900$
+_user_bet: 100$
+_user_bank: -100$
+_user_bank_balance: 4800$
+
+22/09/2022 00:00:02_user_bet: WinJack!
+_user_bank_balance: 4800$
+_user_bet: 100$
+_win_bet: 100 * 6 = 600$
+_user_bank: +600$
+_user_bank_balance: 5400$
+22/09/2022 00:01:40_user_bank inited!
+_user_bank_balance: 4800$
+
+
+22/09/2022 00:01:41_user_bet Accepted!
+_user_bank_balance: 4800$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 4750$
+
+22/09/2022 00:01:50_user_bet: Win!
+_user_bank_balance: 4750$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 4850$
+22/09/2022 00:02:04_user_bank inited!
+_user_bank_balance: 4750$
+
+
+22/09/2022 00:02:16_user_bet Accepted!
+_user_bank_balance: 4750$
+_user_bet: 250$
+_user_bank: -250$
+_user_bank_balance: 4500$
+
+22/09/2022 00:02:18_user_bet: Lose!
+
+
+22/09/2022 00:02:26_user_bet Accepted!
+_user_bank_balance: 4500$
+_user_bet: 500$
+_user_bank: -500$
+_user_bank_balance: 4000$
+
+22/09/2022 00:02:27_user_bet: LoseJack!
+_user_bank_balance: 4000$
+_user_bet: 500$
+_lose_bet: 500 * 2 = 1000$
+_user_bank: -1000$
+_user_bank_balance: 3000$
+
+
+22/09/2022 00:02:38_user_bet Accepted!
+_user_bank_balance: 3000$
+_user_bet: 1000$
+_user_bank: -1000$
+_user_bank_balance: 2000$
+
+22/09/2022 00:02:41_user_bet: Win!
+_user_bank_balance: 2000$
+_user_bet: 1000$
+_win_bet: 1000 * 2 = 2000$
+_user_bank: +2000$
+_user_bank_balance: 4000$
+22/09/2022 01:02:24_user_bank inited!
+_user_bank_balance: 2000$
+
+
+22/09/2022 01:02:28_user_bet Accepted!
+_user_bank_balance: 2000$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1950$
+
+22/09/2022 01:02:59_user_bet: Lose!
+
+
+22/09/2022 01:03:03_user_bet Accepted!
+_user_bank_balance: 1950$
+_user_bet: 50$
+_user_bank: -50$
+_user_bank_balance: 1900$
+
+22/09/2022 01:03:06_user_bet: Win!
+_user_bank_balance: 1900$
+_user_bet: 50$
+_win_bet: 50 * 2 = 100$
+_user_bank: +100$
+_user_bank_balance: 2000$
+
+
+22/09/2022 01:44:27 get_five: Accepted!
+_user_bank_balance: 2000$
+_user_bank: -50$
+_user_bank_balance: 1950$
+
+
+22/09/2022 01:44:27 get_five: Lose!
+
+
+22/09/2022 01:44:28 get_five: Accepted!
+_user_bank_balance: 1950$
+_user_bank: -50$
+_user_bank_balance: 1900$
+
+
+22/09/2022 01:44:28 get_five: Lose!
+
+
+22/09/2022 01:44:29 get_five: Accepted!
+_user_bank_balance: 1900$
+_user_bank: -50$
+_user_bank_balance: 1850$
+
+
+22/09/2022 01:44:29 get_five: Just!
+_user_bank_balance: 1850$
+_user_bank: +50$
+_user_bank_balance: 1900$
+
+
+22/09/2022 01:44:33 get_five: Accepted!
+_user_bank_balance: 1900$
+_user_bank: -50$
+_user_bank_balance: 1850$
+
+
+22/09/2022 01:44:33 get_five: Lose!
+
+
+22/09/2022 01:44:34 get_five: Accepted!
+_user_bank_balance: 1850$
+_user_bank: -50$
+_user_bank_balance: 1800$
+
+
+22/09/2022 01:44:34 get_five: Win!
+_user_bank_balance: 1800$
+_user_bank: +500$
+_user_bank_balance: 2300$
