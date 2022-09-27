@@ -197,7 +197,6 @@ def get_card(user_hand):
     #print('res:', res)
 
     
-
     if res == 'ok' and len(user_hand) >= 2 :
         
         answer = input('HIT or STAND -> ')
@@ -212,7 +211,6 @@ def get_card(user_hand):
             result_game()
             new_game()
             
-            
         else:
             print('STAND')
             print('ai_hand get one more card')
@@ -221,7 +219,6 @@ def get_card(user_hand):
 
     if res == 'lose' or res == 'jack':
         result_game()
-    
     
     pass
 
@@ -237,8 +234,7 @@ def ai_hand_get_card(user_hand_score):
     for i in ai_hand:
         ai_hand_signs +=  i[0] + ' '
         ai_hand_score += int(i[1])
-
-    
+        
     
     while ai_hand_score < 21 and ai_hand_score < user_hand_score:
     
@@ -261,7 +257,6 @@ def ai_hand_get_card(user_hand_score):
 
         print('ai_hand:', ai_hand_signs)
         print('ai_score:', ai_hand_score)
-
 
     result_game()
         
@@ -340,7 +335,6 @@ def result_game():
         add_bet_status(res_game)
         draw_bet() # add to balance 60% of Bet 
         bet_res = f'Draw Bet! +{round(_user_bet*0.6)}$'
-        
         
 
     user_hand = drop_user_hand()

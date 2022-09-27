@@ -2631,3 +2631,51 @@ user_name: UserName
 22
 AI Overhited
 Win
+
+user_name: UserName
+2♠ Q♦ A♣ 
+15
+J♥ 6♣ 
+17
+AI Raced
+Lose
+
+user_name: UserName
+5♥ 10♥ 7♦ 
+22
+6♠ 
+6
+User Overhited
+Lose
+
+user_name: UserName
+7♣ 10♠ 
+17
+3♦ K♥ 2♠ 
+18
+AI Raced
+Lose
+
+user_name: UserName
+K♦ 6♣ 
+19
+A♥ 7♠ 7♥ 7♦ 
+22
+AI Overhited
+Win
+
+user_name: UserName
+J♠ A♦ 6♦ 
+18
+3♥ 7♠ 5♣ 8♣ 
+23
+AI Overhited
+Win
+
+user_name: UserName
+4♦ K♠ 
+17
+9♠ A♣ 4♣ A♥ J♣ 
+26
+AI Overhited
+Win

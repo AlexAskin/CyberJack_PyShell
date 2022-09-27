@@ -1,0 +1,33 @@
+CyberJACK for Python Shell
+
+main file:
+CyberJACK_pyShell_Version.py
+
+Cyberjack - gambling card game (variant of Blackjack and Twenty-One)
+
+HIT - Press '1' + 'Enter'
+STAND - Press 'Enter'
+
+____ MENU ____
+0 - Show Menu
+1 - Play Round!
+2 - Change Bet
+3 - Show Account Info
+4 - Show Statistics
+5 - "Get Five!" (mini-game) 
+6 - Change Nickname
+
+00 - Show Extended Menu
+01 - Show Game Rules
+
+9 - Exit
+
+____EXTENDED MENU ____
+11 - Get 1 Random Card
+55 - Get 5 Random Cards
+22 - Get a Few Nums of Random Cards
+33 - Drop Random Cards Hand
+
+98 - Show deck_list
+99 - Show Cards Deck
+
