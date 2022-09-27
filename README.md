@@ -1,2 +1,4 @@
 # CyberJack_PyShell
- CyberJack for Python Shell
+ CyberJack card-game for Python Shell
+ 
+ 
